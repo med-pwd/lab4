@@ -1,9 +1,6 @@
 # Android APK Reverse Engineering — Lab Writeup
 
-**Course:** Mobile Application Security  
-**Target:** UnCrackable-Level1.apk  
-**Date:** March 4–6, 2026  
-**Author:** Gharb
+
 
 ---
 
